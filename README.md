@@ -1,4 +1,6 @@
-## Hi there 👋
+ ![photo_2024-12-16_23-03-51](https://github.com/user-attachments/assets/beab7856-328f-4bdb-9b77-ae4210dac967)
+ # VizAI-platform
+ 
 
 <!--
 **VizAI-platform/VizAI-platform** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
