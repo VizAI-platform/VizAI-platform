@@ -26,7 +26,7 @@ As a last point, I desire to learn and teach.
 
 I am also patient and enjoy socializing with others.
 
-<a href="https://github.com/shaqayeq-B">Shaghayegh Bagherian </a>
+<a href="https://github.com/shaqayeq-B">GitHub Account</a>
 
 # Abolfazl Salehi
 
@@ -43,6 +43,6 @@ As well as I'm good at teamwork, and I'm experienced in team projects.
 Also, I'm experienced with teaching Python and JavaScript for about 3 years.
 
 
-<a href="https://github.com/abolfazlsli/">Abolfazl Salehi </a>
+<a href="https://github.com/abolfazlsli/">GitHub Account</a>
 
 
